@@ -29,5 +29,5 @@ numbers list does not contain 2
 numbers list contains 3
 numbers list contains 4
 numbers list does not contains 5
-NOTE: Each run will produce different output.
 ```
+NOTE: Each run will produce different output.
